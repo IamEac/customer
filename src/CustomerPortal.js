@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calendar, Users, Package, MessageSquare, UtensilsCrossed, Cake, Palette, Plus, Send, Check, X, Edit2, ChevronLeft, ChevronRight, Star, Phone, Mail, MapPin, AlertCircle, CheckCircle, Music, UserPlus, List, Grid3x3, Trash2, FileText } from 'lucide-react';
+import { Calendar, Users, Package, MessageSquare, UtensilsCrossed, Cake, Palette, Layout, Plus, Send, Check, X, Edit2, ChevronLeft, ChevronRight, Star, Phone, Mail, MapPin, AlertCircle, CheckCircle, Music, UserPlus, List, Grid3x3, Trash2, FileText } from 'lucide-react';
 
 const CustomerPortal = () => {
   // Mock customer data - in real app this would come from backend
